@@ -10,6 +10,8 @@ Additionally, I have a deep interest in cybersecurity and aspire to transition m
 
 - <b>[Active Directory Home Lab]</b>
   - [Walkthrough](https://github.com/jstanford314/ActiveDirectoryLab)
+- <b>[Cybersecurity Detection Home Lab]</b>
+  - [Walkthrough](https://github.com/jstanford314/ActiveDirectoryLab)
 
 <h2>🎓 Certifications:</h2>
 
