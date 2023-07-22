@@ -11,8 +11,8 @@ Additionally, I have a deep interest in cybersecurity and aspire to transition m
 - <b>[Active Directory Home Lab]</b>
   - [Walkthrough](https://github.com/jstanford314/ActiveDirectoryLab)
 - <b>[Cybersecurity Detection Home Lab]</b>
-  - [Walkthrough](https://github.com/jstanford314/ActiveDirectoryLab)
-
+  - [Walkthrough](https://https://github.com/jstanford314/DetectionHomeLab)
+  
 <h2>🎓 Certifications:</h2>
 
 - [Google IT Support Professional](https://coursera.org/share/8a8fd262d96165fe0addc9a00cce14f8)
