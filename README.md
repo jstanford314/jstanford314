@@ -23,10 +23,9 @@ Additionally, I have a deep interest in cybersecurity and aspire to transition m
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JesseStanford | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JesseStanford | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/@xjaystan
+
 [linkedin]: https://linkedin.com/in/jjstanford314
 
 <!--
