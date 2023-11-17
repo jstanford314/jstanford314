@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jesse! <a href="https://www.linkedin.com/in/jjstanford314/">Tech Support Analyst/Cybersecurity Student</a> </h1>
+<h1>Hi, I'm Jesse! <a href="https://www.linkedin.com/in/jjstanford314/">Desktop Support Analyst/Network Engineering Student</a> </h1>
 
 <h2>About Me:</h2>
 I am a results-oriented and adaptable IT operations professional with a passion for delivering top-notch customer service and technical support. My expertise lies in PC maintenance and implementing innovative technology-based solutions to enhance business functionality. With a keen eye for detail and a strong grasp of industry standards, I continuously strive to optimize operations and achieve remarkable results.
