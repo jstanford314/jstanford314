@@ -16,9 +16,8 @@ Additionally, I have a deep interest in cybersecurity and aspire to transition m
 <h2>🎓 Certifications:</h2>
 
 - [Google IT Support Professional](https://coursera.org/share/8a8fd262d96165fe0addc9a00cce14f8)
-- [CompTIA A+ ce](https://www.credly.com/badges/67bdcab5-ca9b-436b-a80c-5e5736e89013/linked_in_profile)
-
-- 
+- [CompTIA A+](https://www.credly.com/badges/67bdcab5-ca9b-436b-a80c-5e5736e89013/linked_in_profile)
+ 
 <h2>📺 YouTube Videos</h2>
 
 -
