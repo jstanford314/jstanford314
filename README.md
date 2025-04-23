@@ -30,8 +30,6 @@ Always open to connecting, collaborating, or just talking tech!
 - [Linux Essentials (LPI)](https://www.credly.com/earner/earned/badge/14f5d66e-61e2-403a-96d2-d0754e2566f6)
 - ITIL v4 Foundation
 
-<img src="e735e17d-b124-42dc-a1db-af1be56ee42c.png" alt="Cisco Cybersecurity Associate" width="150"/>
-
 ---
 
 <h2>🖥️ My Setup:</h2>
