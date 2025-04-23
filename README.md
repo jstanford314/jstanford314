@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jesse! <a href="https://www.linkedin.com/in/jjstanford314/">Systems Analyst II | Network Engineering & Security Student</a> </h1>
 
 <h2>About Me:</h2>
-I’m a Systems Analyst II with a strong background in IT operations, systems administration, and networking. I spend my days keeping systems stable, solving technical problems, and making sure infrastructure runs the way it should—efficient and secure.<br>
+I’m a Systems Analyst II with a strong background in IT operations, systems administration, and networking. I spend my days keeping systems stable, solving technical problems, and making sure infrastructure runs the way it should—efficient and secure.
 
 Outside of work, I’m big on continuous learning. I’ve built multiple homelabs where I dive into everything from VMware virtualization and networking setups to cybersecurity detection and self-hosted services. Whether it's configuring firewalls, setting up clusters, or automating tasks with PowerShell and Linux, I like staying hands-on and sharpening my skills.
 
