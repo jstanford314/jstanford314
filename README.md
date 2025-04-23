@@ -3,6 +3,7 @@
 <h2>About Me:</h2>
 I’m a Systems Analyst II with a strong background in IT operations, systems administration, and networking. I spend my days keeping systems stable, solving technical problems, and making sure infrastructure runs the way it should—efficient and secure.
 
+
 Outside of work, I’m big on continuous learning. I’ve built multiple homelabs where I dive into everything from VMware virtualization and networking setups to cybersecurity detection and self-hosted services. Whether it's configuring firewalls, setting up clusters, or automating tasks with PowerShell and Linux, I like staying hands-on and sharpening my skills.
 
 I’m especially focused on growing in **network engineering**, **systems administration**, and **cybersecurity**—bridging the gap between managing infrastructure and securing it. When I’m not deep in tech, you’ll probably catch me gaming or working on new lab projects.
