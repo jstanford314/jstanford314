@@ -38,7 +38,7 @@ Here’s where all the projects, labs, and a bit of gaming happen. I’m all abo
 
 <img src="IMG_0342.jpg" alt="Desk Setup" width="600"/>
 
-<img src="IMG_0343.jpg" alt="Full Setup View" width="600"/>
+<img src="IMG_0344.jpg" alt="Full Setup View" width="600"/>
 
 ---
 
