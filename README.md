@@ -36,9 +36,9 @@ Always open to connecting, collaborating, or just talking tech!
 
 Here’s where all the projects, labs, and a bit of gaming happen. I’m all about keeping a clean, efficient workspace—whether I’m working on network configs, spinning up VMs, or running a few matches after hours.
 
-<img src="IMG_0342.jpg" alt="Desk Setup" width="600"/>
+<img src="image0.jpeg" alt="Desk Setup" width="600"/>
 
-<img src="IMG_0344.jpg" alt="Full Setup View" width="600"/>
+<img src="image1.jpeg" alt="Full Setup View" width="600"/>
 
 ---
 
